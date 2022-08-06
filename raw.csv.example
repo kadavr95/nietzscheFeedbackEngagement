@@ -1,0 +1,4 @@
+id, name,network, sent, delivered, read, reacted, visited, edited, completed
+1,Ann,VK,sent,delivered,read,no reaction,visited,not edited,
+2,Betty,Telegram,sent,delivered,read,no reaction,not visited,not edited,
+3,Charlotte,VK,sent,delivered,read,answered,visited,edited,completed
